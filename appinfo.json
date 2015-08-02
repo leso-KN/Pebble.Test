@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "info@lesosoftware.com",
+    "longName": "Test",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pebble Test Icon.png",
+                "menuIcon": true,
+                "name": "Icon",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Test",
+    "uuid": "6ccd516c-d590-4fc8-8455-76b76595ec12",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
