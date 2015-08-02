@@ -9,10 +9,10 @@
     "resources": {
         "media": [
             {
-                "file": "images/Pebble Test Icon.png",
+                "file": "images/Pebble Test Icon NoTransp.png",
                 "menuIcon": true,
                 "name": "Icon",
-                "type": "png-trans"
+                "type": "png"
             }
         ]
     },
